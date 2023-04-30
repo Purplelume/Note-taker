@@ -31,3 +31,6 @@ Do "server.js" on the terminal. Remember to chose the correct folder!
 
 ## Do you have any questions
 Don't esitate to reach me at my GitHub [Purplelume](https://github.com/Purplelume) or reach out at my email address: sample.gmail.com
+
+##
+[Link to the deployed website](https://purplelume.github.io/Note-taker/)
